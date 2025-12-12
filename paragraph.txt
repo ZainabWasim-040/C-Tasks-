@@ -1,0 +1,1 @@
+This code explains file handling by reading and writing a file. This program also counts total number of vowels.
